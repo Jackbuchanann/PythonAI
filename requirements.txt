@@ -2,3 +2,4 @@ pytesseract
 Pillow
 pynput
 openai
+pytesseract==0.3.8
